@@ -11,6 +11,7 @@ int main()
         BeginDrawing();                                 //All the elements are rendered in between these two lines of code
 
         EndDrawing();
-
     }
+
+    CloseWindow();
 }
